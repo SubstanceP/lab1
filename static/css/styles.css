@@ -1,0 +1,47 @@
+html {
+    font-style: arial;
+    font-size: 16px;
+    background: url(../images/bgIMG.png);
+    color: #D89EF3;
+}
+
+.projimg {
+    border-radius: 25%;
+}
+
+.projContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.projName {
+    text-align: center;
+}
+
+
+.planet{
+    /*--d:300px;
+    width: var(--d);
+    height:var(--d);
+    display:inline-block;
+    margin: 5px;
+    border-radius: 50%;
+    box-shadow: -20px -20px 50px 2px #000 inset, 0 0 20px 2px #000;
+    background: 
+      url(../images/projIMG1.png)
+      0/auto 100%;
+   /* animation: spin 20s linear infinite;*/
+   width: 20rem;
+   height: 20rem;
+   display: inline-block;
+   margin: 23px;
+   border-radius: 50%;
+   box-shadow: -20px -20px 50px 2px #000 inset, 0 0 20px 2px #000;
+  }
+  
+  @keyframes spin {
+    to {
+      background-position:200% 0;
+    }
+  }
