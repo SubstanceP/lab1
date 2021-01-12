@@ -1,3 +1,10 @@
+html {
+     font-style: helvetica;
+     font-size: 16px;
+}
+
+
+
 /* applies to anything of class "example-class-selector" */
 .example-class-selector {
 	margin-top: 2em;
