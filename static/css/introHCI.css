@@ -14,11 +14,6 @@ html {
      justify-content: space-between;
 }
 
-.projName {
-     text-align: center;
-}
-
-
 .planet{
      /*--d:300px;
      width: var(--d);
@@ -39,11 +34,12 @@ html {
     box-shadow: -20px -20px 50px 2px #000 inset, 0 0 20px 2px #000;
    }
    
-   @keyframes spin {
+   /*@keyframes spin {
      to {
        background-position:200% 0;
      }
-   }
+   }*/
+
 
 
 /*applies to anything of class "example-class-selector" */
