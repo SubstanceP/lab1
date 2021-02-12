@@ -9,8 +9,34 @@ html {
     color: #C7F3FF;*/
 }
 
+.aboutme {
+    background-color: rgba(0,0,0,.511);
+    font-weight: 600;
+    height: 26rem;
+    padding-top: 1rem;
+    margin-top: 2rem;
+}
+
+.me {
+    float: right;
+    margin-top: -3.5rem;
+    padding-right: 1.5rem;
+}
+
+.me > div{
+    background: center/100% url(../images/IMG_0127.jpg) no-repeat;
+}
+
+.aboutme > p {
+    line-height: 2rem;
+    width: 50rem;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
 .about {
-    background-color: rgba(0,0,0,.333);
+    background-color: rgba(0,0,0,.001x1);
     padding: 2rem;
     margin: -2rem -.5rem 0 -.5rem;
 }
