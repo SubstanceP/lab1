@@ -116,3 +116,20 @@ a:hover {
       background-position:200% 0;
     }
   }(*/
+
+  @media (max-width: 811px) {
+      .aboutme > p {
+          width: 90%;
+      }
+      .me {
+          display: flex;
+          width: 100%;
+          justify-content: center;
+
+          padding-top: 2rem;
+      }
+      .aboutme {
+          height: 40rem;
+          padding-bottom: 2rem;
+      }
+  }
